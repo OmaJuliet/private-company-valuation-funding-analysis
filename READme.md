@@ -56,6 +56,7 @@ Using **pandas**, the dataset was cleaned to ensure consistency:
 3. **Saved the cleaned dataset as a CSV file** for further analysis.
 
 The cleaning script is available in the **'Markets Private Companies - Yahoo Finance.ipynb'** file.
+
 ---
 
 ## **📊 Data Analysis & Insights**
@@ -94,8 +95,6 @@ An **interactive dashboard** was created using **Google Looker Studio** to visua
 ![Private Company Valuation & Funding Analysis Dashboard Page 3](private-company-valuation-dashboard-3.png) 
 
 
-#### [Full report](https://lookerstudio.google.com/s/pcvZUqVSLP4)
-
-
 ## **📑 Full Report**👇
+Visit [full report page on Google Looker Studio]((https://lookerstudio.google.com/s/pcvZUqVSLP4))
 ![Private Company Valuation & Funding Analysis](Private_Company_Valuation_Report.pdf)
