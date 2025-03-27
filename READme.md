@@ -38,9 +38,9 @@ The dataset was scraped from Yahoo Finance using **BeautifulSoup** and **request
 - **Latest Round Share Class**
 - **Private Company Sector**
 
-The scraping script extracts this data and the scraping script code is located in the **'web scraping code.py'** file.
+The scraping script extracts this data and the scraping script code is located in the **[cweb scraping code](web scraping code.py)** file.
 
-The scraped data is saved in a CSV file: **cleaned_private_companies.csv**.
+The scraped data is saved in the **[cleaned private companies csv](cleaned_private_companies.csv)** file.
 
 ---
 
@@ -55,7 +55,7 @@ Using **pandas**, the dataset was cleaned to ensure consistency:
    - Converted `Latest Funding Date` column to date type.
 3. **Saved the cleaned dataset as a CSV file** for further analysis.
 
-The cleaning script is available in the **'Markets Private Companies - Yahoo Finance.ipynb'** file.
+The cleaning script is available in the [Markets Private Companies - Yahoo Finance](Markets-Private-Companies-Yahoo-Finance.ipynb) file
 
 ---
 
