@@ -38,7 +38,7 @@ The dataset was scraped from Yahoo Finance using **BeautifulSoup** and **request
 - **Latest Round Share Class**
 - **Private Company Sector**
 
-The scraping script extracts this data and the scraping script code is located in the **[cweb scraping code](web scraping code.py)** file.
+The scraping script extracts this data and the scraping script code is located in the **[web scraping code](web-scraping-code.py)** file.
 
 The scraped data is saved in the **[cleaned private companies csv](cleaned_private_companies.csv)** file.
 
