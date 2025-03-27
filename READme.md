@@ -75,7 +75,10 @@ An **interactive dashboard** was created using **Google Looker Studio** to visua
 - **Total Estimated Valuation of All Private Companies** (Scorecard)
 - **Total Funding Raised Across All Companies** (Scorecard)
 - **Top Sector by Total Valuation** (Scorecard)
-
+- **Company with the Highest and Lowest 52-week change** (Scorecards)
+- **Sector with the Highest 52-week change** (Scorecard)
+- **Company with the Highest and Lowest Valuation** (Scorecards)
+- **Company with the Highest and Lowest Total FUnding Raised** (Scorecards)
 
 - **Top 5 Private Companies by Estimated Valuation** (Horizontal Bar Chart)
 - **Total Valuation by Private Company Sector** (Pie Chart)
@@ -96,5 +99,6 @@ An **interactive dashboard** was created using **Google Looker Studio** to visua
 
 
 ## **📑 Full Report**👇
-Visit [full report page on Google Looker Studio]((https://lookerstudio.google.com/s/pcvZUqVSLP4))
-![Private Company Valuation & Funding Analysis](Private_Company_Valuation_Report.pdf)
+- Visit [full report page on Google Looker Studio](https://lookerstudio.google.com/s/pcvZUqVSLP4)
+
+- ![Private Company Valuation & Funding Analysis](Private_Company_Valuation_Report.pdf)
