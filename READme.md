@@ -71,7 +71,7 @@ Key insights derived from the dataset:
 ---
 
 ## **📈 Visualization & Dashboard**
-An **interactive dashboard** was created using **Google Looker Studio** to visualize:
+An **interactive dashboard** was created using **PowerBI** and recreated using **Google Looker Studio** to visualize:
 - **Total Estimated Valuation of All Private Companies** (Scorecard)
 - **Total Funding Raised Across All Companies** (Scorecard)
 - **Top Sector by Total Valuation** (Scorecard)
@@ -90,6 +90,9 @@ An **interactive dashboard** was created using **Google Looker Studio** to visua
 - **Correlation Between Funding Raised and Valuation** (Scatter plot/chart)
 - **Largest Funding Rounds in the Last Year** (Table)
 
+- ![Interact with dashboard on Power BI](Private-Company-Funding-&-Valuation-Analysis.pbix)
+
+- Visit [full report page on Power BI](https://app.powerbi.com/groups/me/reports/80be49c5-d3e9-43c4-9074-e2bff5f7f163?pbi_source=desktop)
 ---
 
 ## **📑 Dashboard Pages**👇
@@ -99,6 +102,7 @@ An **interactive dashboard** was created using **Google Looker Studio** to visua
 
 
 ## **📑 Full Report**👇
+
 - Visit [full report page on Google Looker Studio](https://lookerstudio.google.com/s/pcvZUqVSLP4)
 
 - ![Private Company Valuation & Funding Analysis](Private_Company_Valuation_Report.pdf)
